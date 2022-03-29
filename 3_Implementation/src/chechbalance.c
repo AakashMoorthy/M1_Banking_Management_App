@@ -5,13 +5,10 @@ void checkbalance(char username2[])
 	struct money m1;
 	char ch;
 	int i = 1, summoney = 0;
-
 	fm = fopen("mon.txt", "rb");
-
 	int k = 5, l = 10;
 	int m = 30, n = 10;
 	int u = 60, v = 10;
-
 	gotoxy(30, 2);
 	printf("==== BALANCE DASHBOARD ====");
 	gotoxy(30, 3);
@@ -22,8 +19,6 @@ void checkbalance(char username2[])
 	printf("TRANSACTION ID");
 	gotoxy(u, v);
 	printf("AMOUNT");
-
-	
 	while (fread(&m1, sizeof(m1),
 				1, fm)) {
 		if (strcmp(username2,
@@ -34,10 +29,8 @@ void checkbalance(char username2[])
 			i++;
 			gotoxy(m, ++n);
 			printf("%s", m1.userpersonfrom);
-
 			gotoxy(u, ++v);
 			printf("%ld", m1.money1);
-		
 			summoney = summoney + m1.money1;
 		}
 	}
