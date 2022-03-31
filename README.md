@@ -1,4 +1,4 @@
-# M1_Banking_Management_App
+# Project Title - M1_Banking_Management_App
 
 # BANKING MANAGEMENT SYSTEM:
 
