@@ -53,7 +53,7 @@ Mini project using c language
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-88454565| deepa thandu | Bank-management System    | 2    | 2   | 8  | 8    
+88454565| Aakash M | Bank-management System    | 2    | 2   | 8  | 8    
      
 
 ## Challenges Faced and How Was It Overcome
