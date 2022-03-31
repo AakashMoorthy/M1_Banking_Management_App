@@ -40,7 +40,7 @@ Types of Pointers in C:
 3.Wild pointer
 4.Dangling pointer
 
-## funtion pointer:
+## Funtion Pointer:
 In the C function pointer is used to resolve the run time-binding. A function pointer is a pointer that stores the address of the function and invokes the function whenever required.
 In C, we can use function pointers to avoid code redundancy.
 1) Unlike normal pointers, a function pointer points to code, not data. Typically a function pointer stores the start of executable code.
@@ -56,7 +56,7 @@ A structure variable can either be declared with structure declaration or as a s
 Structure members can be initialized using curly braces ‘{}’. For example, following is a valid initialization. 
 Structure members are accessed using dot (.) operator.
 
-## type def:
+## Type def:
 typedef, which you can use to give a type a new name. Following is an example to define a term BYTE for one-byte numbers.After this type definition, the identifier BYTE can be used as an abbreviation for the type unsigned char
 
 By convention, uppercase letters are used for these definitions to remind the user that the type name is really a symbolic abbreviation, but you can use lowercase.
