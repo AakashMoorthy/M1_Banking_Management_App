@@ -14,9 +14,9 @@ The purpose of this project is to develop “Banking management system” which 
 
 Mini project using c language
 
-![code Quality]https://api.codiga.io/project/32343/score/svg
+![code Quality](https://api.codiga.io/project/32343/score/svg)
 
-![code grade]https://api.codiga.io/project/32343/status/svg
+![code grade](https://api.codiga.io/project/32343/status/svg)
 
 [![CI](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml)
 
