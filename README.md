@@ -18,21 +18,21 @@ Mini project using c language
 
 ![code grade](https://api.codiga.io/project/32343/status/svg)
 
-[![CI](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml)
+[![CI](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/main.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/main.yml)
 
-[![Valgrind](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml)
+[![Valgrind](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Valgrind.yml)
 
 [![Build Linux](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Build.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Build.yml)
 
-[![Unity Testing](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Unity.yml)
+[![Unity Testing](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Unity.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_Ap/actions/workflows/Unity.yml)
 
-[![Contribution Check - Git Inspector](https://github.com/thandudeepa/M1/actions/workflows/gitinsprcter.yml/badge.svg)](https://github.com/thandudeepa/M1/actions/workflows/gitinsprcter.yml)
+[![Contribution Check - Git Inspector](https://github.com/AakashMoorthy/M1_Banking_Management_Ap/actions/workflows/gitinsprcter.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_Ap/actions/workflows/gitinsprcter.yml)
 
-[![Contribution Check](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Contribution.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Contribution.yml)
+[![Contribution Check](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Contribution.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Contribution.yml)
 
-[![Static Check](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Static%20.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Static%20.yml)
+[![Static Check](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Static%20.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_Ap/actions/workflows/Static%20.yml)
 
-[![Quality Check](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Quality.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Quality.yml)
+[![Quality Check](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Quality.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Quality.yml)
 
 
 
