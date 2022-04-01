@@ -22,7 +22,7 @@ Mini project using c language
 
 [![Valgrind](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml)
 
-[![Build Linux](https://github.com/AakashMoorthy/M1_Banking_Management_App/blob/main/.github/workflows/Build.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_App/blob/main/.github/workflows/Build.yml)
+[![Build Linux](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Build.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Build.yml)
 
 [![Unity Testing](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Unity.yml)
 
