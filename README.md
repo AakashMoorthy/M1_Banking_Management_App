@@ -26,7 +26,8 @@ Mini project using c language
 
 [![Unity Testing](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Unity.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_Ap/actions/workflows/Unity.yml)
 
-[![Contribution Check - Git Inspector](https://github.com/AakashMoorthy/M1_Banking_Management_Ap/actions/workflows/gitinsprcter.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_Ap/actions/workflows/gitinsprcter.yml)
+[![Contribution Check - Git Inspector](https://github.com/thandudeepa/M1/actions/workflows/gitinsprcter.yml/badge.svg)](https://github.com/thandudeepa/M1/actions/workflows/gitinsprcter.yml)
+
 
 [![Contribution Check](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Contribution.yml/badge.svg)](https://github.com/AakashMoorthy/M1_Banking_Management_App/actions/workflows/Contribution.yml)
 
